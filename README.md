@@ -31,3 +31,5 @@ Real-Time-Voice-Translator/
 4.(Optional) Use the TTS voice hint to select a particular system voice.
 
 #### SCREENSHOTS:
+<img width="1366" height="768" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/d787cee0-1bd2-44b5-82a4-f426e9e0bdd5" />
+<img width="1366" height="768" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/0ba554ee-13e8-4f4b-aa0f-fd1038b26921" />
